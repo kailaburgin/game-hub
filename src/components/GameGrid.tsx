@@ -40,3 +40,4 @@ const GameGrid = ({ selectedGenre }: Props) => {
 };
 
 export default GameGrid;
+ 
